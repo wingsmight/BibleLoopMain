@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#0284B7</color>
+<color name="colorPrimaryDark">#015C7F</color>
+<color name="colorAccent">#E8ECEE</color>
+<color name="colorLyricsTitle">#0284B7</color>
+<color name="colorMainBackground">#E3E3E3</color>
+<color name="colorTextInBlock">#4C4C4C</color>
+<color name="colorTextListen">#3B3B3B</color>
+<color name="colorLyricsTitleBlock">#F0F0F0</color>
+<color name="colorChapterTitleBlock">#E5F8FF</color>
+<color name="colorChapterTitleBlockLearn">#FF8F68</color>
+<color name="colorChapterTitleBlockKnow">#4BA059</color>
+<color name="colorDisableButton">#EBEBEB</color>
+<color name="colorActiveButton">#D6D7D7</color>
+<color name="popUpWindowBackground">#6B000000</color>
+<color name="colorGetFullVersion">#00875F</color>
+</resources>

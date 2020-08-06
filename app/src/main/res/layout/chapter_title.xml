@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorLyricsTitleBlock"
+    android:layout_margin="4dp">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/chapterTitleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="45dp"
+            android:background="@color/colorChapterTitleBlock"
+            android:padding="6dp"
+            android:text="Иисус Христос - сын Бога"
+            android:gravity="left"
+            android:textColor="@color/colorTextInBlock"
+            android:textSize="21sp"
+            />
+
+        <ImageView
+            android:id="@+id/arrow"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="right|top"
+            android:src="@drawable/arrow_down"/>
+
+    </FrameLayout>
+
+</LinearLayout>

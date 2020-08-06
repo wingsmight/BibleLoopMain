@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_custom_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp"
+    android:background="@color/colorAccent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/closeButton"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="X"
+        android:textSize="25dp"
+        android:layout_gravity="right"
+        android:textColor="@color/colorTextInBlock"
+        android:textStyle="bold"
+        android:background="@null"
+        />
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textToPay0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:scrollbars="vertical"
+                android:textAlignment="center"
+
+                android:text="@string/textToPay0"
+                android:gravity="center"
+                android:textSize="17sp"
+                android:textColor="@color/colorTextInBlock"
+                android:padding="10sp"
+                />
+            <TextView
+                android:id="@+id/tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:scrollbars="vertical"
+
+                android:text="@string/textToPay6"
+                android:gravity="left"
+                android:textSize="17sp"
+                android:textColor="@color/colorTextInBlock"
+                android:padding="10sp"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/pay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Перейти на полную версию"
+        android:textSize="16dp"
+        android:layout_gravity="bottom"
+        android:textColor="@color/colorAccent"
+        android:background="@color/colorGetFullVersion"
+        android:layout_margin="10dp"
+        />
+</LinearLayout>

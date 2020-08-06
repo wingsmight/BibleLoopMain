@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Слово в сердце</string>
+    <string name="close">Закрыть</string>
+    <string name="open">Открыть</string>
+    <string name="lyricsTitle">Lyrics title</string>
+    <string name="lyricsDetailed">Lyrics detailed</string>
+    <string name="textToPayAll">"все"</string>
+    <string name="textToPayAllThem">"всех"</string>
+    <string name="textToPay0">"ФУНКЦИИ ОТМЕЧЕННЫЕ ЗАМКОМ ОТКРЫТЫ В ПОЛНОЙ ВЕРСИИ ПРИЛОЖЕНИЯ"</string>
+    <string name="textToPay1">"\nПочему вам нужна полная версия?\n\n"</string>
+    <string name="textToPay2">"1. Станут доступны "</string>
+    <string name="textToPay3">" стихи и во "</string>
+    <string name="textToPay4">" разделах. Когда мы будем делать обновления и добавлять новые стихи, у вас откроется доступ автоматически.\n\n2. Активизируются кнопки «20 раз» и «50 раз». Не нужно будет нажимать снова и снова кнопку «5 раз», если вы захотите повторить стих многократно. А чем больше раз вы повторяете стих, тем быстрее и лучше он запоминается!\n\n3. Появится возможность авторизоваться через соцсети и электронную почту. Это поможет:\n- не потерять список уже выученных стихов, если вы поменяете телефон;\n- создать синхронизацию между устройствами, если вы захотите установить приложение одновременно и на телефоне, и на планшете.\n\n\n"</string>
+    <string name="textToPay5">"Почему ваш вклад полезный?\n\n"</string>
+    <string name="textToPay6">"1. Мы сможем создавать другие полезные приложения для христиан.\n\n2. Слово Божье будет распространяться и укореняться в жизни тысяч людей.\n\n3. Вы будете еще ближе с Господом в повседневной жизни.\n\nСтоимость полной версии 300 рублей.\nСрок: навсегда.\n\nДавайте и дастся вам."</string>
+    <string name="googleAuth">Авторизоваться\nчерез Google</string>
+    <string name="learnAgain">Вернуть в \"УЧУ\"</string>
+    <string name="PrivatePolitics">Политика конф.</string>
+    <string name="Rate">Оставить отзыв</string>
+</resources>
